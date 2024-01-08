@@ -15,7 +15,7 @@ aliases:
 ---
 
 {{< paige/figure float="end" >}}
-{{< paige/image class="rounded-5" height="auto" width="auto" maxheight="22rem" maxwidth="100%" src="KIERTUE_LAHTI_VILJAMI-36.jpg" process="webp picture x1500 q50" >}}
+{{< paige/image alt="Photo of me" class="rounded-5" height="auto" width="auto" maxheight="22rem" maxwidth="100%" src="cover.jpg" process="webp picture x1500 q50" >}}
 {{< /paige/figure >}}
 
 <div class="container-fluid">
@@ -91,7 +91,7 @@ aliases:
 <br>
 
 {{< paige/gallery align="start" >}}
-{{< paige/image height="auto" width="auto" maxheight="20rem" maxwidth="100%" linked="unprocessed" src="20191117_174749.jpg" process="webp picture x1000 q50" >}}
-{{< paige/image height="auto" width="auto" maxheight="20rem" maxwidth="100%" linked="unprocessed" src="wanhat2020_ek-6104.jpg" process="webp picture x1000 q50" >}}
-{{< paige/image height="auto" width="auto" maxheight="20rem" maxwidth="100%" linked="unprocessed" src="Läpäri2_AaroP-1.jpg" process="webp picture x1000 q50" >}}
+{{< paige/image alt="Photo of me" height="auto" width="auto" maxheight="20rem" maxwidth="100%" linked="unprocessed" src="junction.jpg" process="webp picture x1000 q50" >}}
+{{< paige/image alt="Photo of me" height="auto" width="auto" maxheight="20rem" maxwidth="100%" linked="unprocessed" src="wanhat.jpg" process="webp picture x1000 q50" >}}
+{{< paige/image alt="Photo of me" height="auto" width="auto" maxheight="20rem" maxwidth="100%" linked="unprocessed" src="speksi.jpg" process="webp picture x1000 q50" >}}
 {{< /paige/gallery >}}
