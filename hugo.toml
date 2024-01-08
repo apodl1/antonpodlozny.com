@@ -1,0 +1,43 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Anton Podlozny'
+copyright = """© Anton Podlozny 2024;{{< paige/email address="a.podlozny@gmail.com" >}}E-mail me{{< /paige/email >}}"""
+
+[[module.imports]]
+path = "github.com/willfaught/paige"
+
+[languages.en]
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "About me"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "events"
+name = "Events"
+url = "/events/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "projects"
+name = "Coding projects"
+url = "/projects/"
+weight = 30
+
+[[languages.en.menu.main]]
+identifier = "Linkedin"
+name = "LinkedIn 🔗"
+url = "https://www.linkedin.com/in/anton-podlozny/"
+weight = 40
+
+[[languages.en.menu.main]]
+identifier = "github"
+name = "Github 🔗"
+url = "https://github.com/apodl1"
+weight = 50
+
+[markup.goldmark.renderer]
+unsafe = true
