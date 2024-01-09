@@ -19,4 +19,8 @@ description: "My projects to date"
 {{< paige/figure caption="[<h4>Air traffic controller -game<h4>](https://github.com/apodl1/air-traffic-control-game)" >}}
   {{< paige/image class="rounded-3" width="auto" height="auto" maxheight="24rem" maxwidth="100%" process="webp picture x2000 q50" src="atc.png" link="https://github.com/apodl1/air-traffic-control-game" >}}
 {{< /paige/figure >}}
+{{< paige/figure caption="[<h4>antonpodlozny.com<h4>](https://github.com/apodl1/antonpodlozny.com)" >}}
+  {{< paige/image class="rounded-3" width="auto" height="auto" maxheight="24rem" maxwidth="100%" process="webp picture x2000 q50" src="comt.png" link="https://github.com/apodl1/antonpodlozny.com" >}}
+{{< /paige/figure >}}
+
 {{< /paige/gallery >}}
