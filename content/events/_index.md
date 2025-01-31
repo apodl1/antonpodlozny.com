@@ -13,6 +13,9 @@ description: "Events I have done"
 
 {{< paige/gallery align="start" >}}
 
+{{< paige/figure caption="[<h4>Teekkarispeksi 2024 - Naamion Takana<h4>](naamiontakana)" >}}
+  {{< paige/image class="rounded-3" width="auto" height="auto" maxheight="24rem" maxwidth="100%" process="webp picture x2000 q50" src="naamiontakana1.png" link="naamiontakana" >}}
+{{< /paige/figure >}}
 {{< paige/figure caption="[<h4>Teekkarispeksi 2023 - Univelka<h4>](univelka)" >}}
   {{< paige/image class="rounded-3" width="auto" height="auto" maxheight="24rem" maxwidth="100%" process="webp picture x2000 q50" src="univelka.png" link="univelka" >}}
 {{< /paige/figure >}}
@@ -29,8 +32,9 @@ description: "Events I have done"
   {{< paige/image class="rounded-3" width="auto" height="auto" maxheight="24rem" maxwidth="100%" process="webp picture x2000 q50" src="wanhat2020.jpg" link="wanhat2020" >}}
 {{< /paige/figure >}}
 {{< paige/figure caption="[<h4>DASH 2018<h4>](dash)" >}}
-  {{< paige/image class="rounded-3" width="auto" height="auto" maxheight="24rem" maxwidth="100%" process="webp picture x2000 q50" src="dash.jpg" link="dash" >}}
+  {{< paige/image class="rounded-3" width="auto" height="auto" maxheight="24rem" maxwidth="100%" process="webp picture x2000 q50" src="dass.jpg" link="dash" >}}
 {{< /paige/figure >}}
+
 
 
 {{< /paige/gallery >}}

@@ -6,7 +6,7 @@ title = 'Teekkarispeksi 2023 - Univelka'
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
             <p class="lead text-center">
-              The oldest student-run musical production in Finland</p>
+              The oldest student-run musical production in Finland, 2023 edition</p>
         </div>
     </div>
 </div>
@@ -14,7 +14,7 @@ title = 'Teekkarispeksi 2023 - Univelka'
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
-            <p class="lead text-center">Headset mixing, multitrack recording, occassional sound effect operating</p>
+            <p class="lead text-center">Headset mixing, multitrack recording, occasional sound effect operating</p>
         </div>
     </div>
 </div>

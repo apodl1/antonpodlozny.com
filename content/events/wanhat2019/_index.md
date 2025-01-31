@@ -6,7 +6,7 @@ title = 'Wanhat 2019'
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
             <p class="lead text-center">
-              Otaniemen lukio</p>
+              Olarin lukio</p>
         </div>
     </div>
 </div>
