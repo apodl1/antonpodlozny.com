@@ -29,7 +29,7 @@ aliases:
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
-            <p class="lead text-center">Graduate of Otaniemi high school science and mathematics class</p>
+            <p class="lead text-center">A programmer & problem solver enthusiastic about algorithm design and compute infrastructure</p>
         </div>
     </div>
 </div>
@@ -74,8 +74,12 @@ aliases:
 {{< paige/image maxheight="6rem" alt="Python" src="python.png" process="webp picture x600 q50" >}}
 {{< /paige/figure >}}
 
-{{< paige/figure caption="C / C++" >}}
+{{< paige/figure caption="C & C++" >}}
 {{< paige/image maxheight="6rem" alt="C++" src="cpp_logo.png" process="webp picture x600 q50" >}}
+{{< /paige/figure >}}
+
+{{< paige/figure caption="Rust" >}}
+{{< paige/image maxheight="6rem" alt="Rust" src="rust.png" process="webp picture x600 q50" >}}
 {{< /paige/figure >}}
 
 {{< paige/figure caption="Relational DBs" >}}

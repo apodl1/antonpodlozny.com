@@ -7,7 +7,7 @@ paige:
         display: none;
     }
 title: "Projects"
-description: "My projects to date"
+description: "My (public) projects to date"
 ---
 <br>
 

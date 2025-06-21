@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Anton Podlozny'
-copyright = """© Anton Podlozny 2025;{{< paige/email address="a.podlozny@gmail.com" >}}E-mail me{{< /paige/email >}}"""
+copyright = """© Anton Podlozny 2025;{{< paige/email address="anton@podlozny.com" >}}E-mail me{{< /paige/email >}}"""
 
 [[module.imports]]
 path = "github.com/willfaught/paige"
