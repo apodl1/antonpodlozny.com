@@ -15,7 +15,7 @@ aliases:
 ---
 
 {{< paige/figure float="end" >}}
-{{< paige/image alt="Photo of me" class="rounded-5" height="auto" width="auto" maxheight="22rem" maxwidth="100%" src="cover.jpg" process="webp picture x1500 q50" >}}
+{{< paige/image alt="Photo of me" class="rounded-5" maxheight="22rem" src="cover.jpg" process="webp picture x1500 q50" >}}
 {{< /paige/figure >}}
 
 <div class="container-fluid">
@@ -95,7 +95,7 @@ aliases:
 <br>
 
 {{< paige/gallery align="start" >}}
-{{< paige/image alt="Photo of me" height="auto" width="auto" maxheight="21rem" maxwidth="100%" linked="unprocessed" src="tiskit.jpg" process="webp picture x1000 q50" >}}
-{{< paige/image alt="Photo of me" height="auto" width="auto" maxheight="21rem" maxwidth="100%" linked="unprocessed" src="LÄPÄRI1_spex24.jpg" process="webp picture x1000 q50" >}}
-{{< paige/image alt="Photo of me" height="auto" width="auto" maxheight="21rem" maxwidth="100%" linked="unprocessed" src="speksi.jpg" process="webp picture x1000 q50" >}}
+{{< paige/image alt="Photo of sound consoles" maxheight="21rem" linked="unprocessed" process="webp picture x1000 q50" src="tiskit.jpg">}}
+{{< paige/image alt="Photo of me" maxheight="21rem" linked="unprocessed" process="webp picture x1000 q50" src="LÄPÄRI1_spex24.jpg">}}
+{{< paige/image alt="Photo of me" maxheight="21rem" linked="unprocessed" process="webp picture x1000 q50" src="speksi.jpg">}}
 {{< /paige/gallery >}}
