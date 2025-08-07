@@ -22,7 +22,7 @@ aliases:
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
             <p class="lead text-center">
-              Third-year Computer Science student at Aalto university</p>
+              Fourth-year Computer Science student at Aalto university</p>
         </div>
     </div>
 </div>
