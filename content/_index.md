@@ -66,10 +66,6 @@ aliases:
 </div>
 
 <div class="d-flex gap-3 justify-content-around flex-wrap" style="height: 12rem">
-{{< paige/figure caption="Scala" >}}
-{{< paige/image maxheight="6rem" alt="Scala" src="scala.png" process="webp picture x600 q50" >}}
-{{< /paige/figure >}}
-
 {{< paige/figure caption="Python" >}}
 {{< paige/image maxheight="6rem" alt="Python" src="python.png" process="webp picture x600 q50" >}}
 {{< /paige/figure >}}
@@ -88,6 +84,10 @@ aliases:
 
 {{< paige/figure caption="SysAdmin" >}}
 {{< paige/image maxheight="6rem" alt="Linux" src="linux.png" process="webp picture x600 q50" >}}
+{{< /paige/figure >}}
+
+{{< paige/figure caption="Azure cloud" >}}
+{{< paige/image maxheight="6rem" alt="Azure" src="azure.png" process="webp picture x600 q50" >}}
 {{< /paige/figure >}}
 </div>
 <div class="d-flex justify-content-around flex-wrap d-block d-md-none" style="height: 12rem">
