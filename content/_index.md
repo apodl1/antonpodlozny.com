@@ -86,7 +86,7 @@ aliases:
 {{< paige/image maxheight="6rem" alt="Linux" src="linux.png" process="webp picture x600 q50" >}}
 {{< /paige/figure >}}
 
-{{< paige/figure caption="Azure cloud" >}}
+{{< paige/figure caption="Azure Cloud" >}}
 {{< paige/image maxheight="6rem" alt="Azure" src="azure.png" process="webp picture x600 q50" >}}
 {{< /paige/figure >}}
 </div>
