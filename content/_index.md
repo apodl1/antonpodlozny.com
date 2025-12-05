@@ -36,7 +36,7 @@ aliases:
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
-            <p class="lead text-center">Silver medalist in the International Geography Olympiad (iGeo 2021, Istanbul)</p>
+            <p class="lead text-center">Producer of <a href="https://teekkarispeksi.fi/">Teekkarispeksi 2026</a></p>
         </div>
     </div>
 </div>
