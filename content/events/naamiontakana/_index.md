@@ -6,7 +6,7 @@ title = 'Teekkarispeksi 2024 - Naamion Takana'
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
             <p class="lead text-center">
-              The oldest student-run musical production in Finland, 2024 edition</p>
+              A student-run musical production with ~2500 annual viewers, 2024 edition</p>
         </div>
     </div>
 </div>
