@@ -16,26 +16,26 @@ url = "/"
 weight = 10
 
 [[languages.en.menu.main]]
-identifier = "events"
-name = "Events"
-url = "/events/"
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
 weight = 20
 
 [[languages.en.menu.main]]
-identifier = "projects"
-name = "Coding projects"
-url = "/projects/"
+identifier = "events"
+name = "Events"
+url = "/events/"
 weight = 30
 
 [[languages.en.menu.main]]
-identifier = "Linkedin"
+identifier = "LinkedIn"
 name = "LinkedIn 🔗"
 url = "https://www.linkedin.com/in/anton-podlozny/"
 weight = 40
 
 [[languages.en.menu.main]]
-identifier = "github"
-name = "Github 🔗"
+identifier = "GitHub"
+name = "GitHub 🔗"
 url = "https://github.com/apodl1"
 weight = 50
 
