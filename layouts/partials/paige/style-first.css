@@ -14,3 +14,6 @@
 .paige-summary {
     display: none;
 }
+.paige-figure {
+    margin: 0.2rem !important;
+}
