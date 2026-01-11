@@ -90,9 +90,9 @@ aliases:
 {{< paige/image maxheight="6rem" alt="Azure" src="azure.png" process="webp picture x600 q50" >}}
 {{< /paige/figure >}}
 </div>
-<div class="d-flex justify-content-around flex-wrap d-block d-md-none" style="height: 12rem">
-</div>
+<div class="d-flex justify-content-around flex-wrap d-block d-md-none" style="height: 12rem"></div>
 <br>
+<div class="d-flex d-md-none" style="height: 1rem"></div>
 
 {{< paige/gallery align="start" >}}
 {{< paige/image alt="Photo of sound consoles" maxheight="21rem" class="img-fluid" linked="unprocessed" process="webp picture x1000 q50" src="tiskit.jpg">}}
