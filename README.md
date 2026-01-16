@@ -1,6 +1,6 @@
-A personal website to act as a virtual business card and showcase highly visual work as an event technician.
+A personal website to act as a virtual business card.
 
-Built with [Hugo](https://gohugo.io/) and slightly modified [Paige theme](https://github.com/willfaught/paige). Hosted with Nginx on my home server, with the domain [antonpodlozny.com](https://antonpodlozny.com/).
+Built with [Hugo](https://gohugo.io/) and modified [Paige theme](https://github.com/willfaught/paige). Hosted with Nginx & Cloudflare dynamic DNS on my home server, with the domain [antonpodlozny.com](https://antonpodlozny.com/).
 
 <img src="screenshot.png" width="700" alt="Website screenshot">
 
