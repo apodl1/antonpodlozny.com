@@ -14,7 +14,7 @@ title = 'Teekkarispeksi 2024 - Naamion Takana'
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
-            <p class="lead text-center">Audio team lead & mentor, mixing a 13-piece & 30-input band, multitrack recording, occassional headset mixing</p>
+            <p class="lead text-center">Audio team lead & mentor (A1 engineer) | Mixing a 13-piece & 30-input band | Multitrack recording | Occasional headset mixing</p>
         </div>
     </div>
 </div>

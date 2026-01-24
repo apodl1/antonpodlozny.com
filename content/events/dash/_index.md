@@ -15,7 +15,7 @@ title = 'DASH 2018'
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
             <p class="lead text-center">
-              Technical co-producer, projection design / operating, video lead</p>
+              Technical co-producer | Projection design & operating | Video lead</p>
         </div>
     </div>
 </div>

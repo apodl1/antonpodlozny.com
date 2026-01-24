@@ -23,7 +23,7 @@ title = 'Music diploma concerts 2021'
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
             <p class="lead text-center">
-            Stream sound design / mixing, multitrack recording, team mentor</p>
+            Stream sound design & mixing | Multitrack recording | Team mentor</p>
         </div>
     </div>
 </div>

@@ -23,7 +23,7 @@ title = 'Wanhat 2019'
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
             <p class="lead text-center">
-            Technical production manager, lighting design / programming / operating</p>
+            Technical production manager | Lighting design & programming & operating</p>
         </div>
     </div>
 </div>

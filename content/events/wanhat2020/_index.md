@@ -15,7 +15,7 @@ title = 'Wanhat 2020'
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
             <p class="lead text-center">
-            Sound design / lead, ambience light design / lead, performer :D</p>
+            Sound design & lead | Ambience light design & lead | Performer :D</p>
         </div>
     </div>
 </div>
