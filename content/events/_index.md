@@ -13,6 +13,9 @@ description: "Events I have done"
 
 {{< paige/gallery align="start" >}}
 
+{{< paige/figure caption="[<h4>Teekkarispeksi 2026 - Piisydän<h4>](piisydan) Producer" >}}
+  {{< paige/image class="rounded-3" width="auto" height="auto" maxheight="24rem" maxwidth="100%" process="webp picture x2000 q50" src="piisydan_crop.png" link="piisydan" >}}
+{{< /paige/figure >}}
 {{< paige/figure caption="[<h4>Teekkarispeksi 2024 - Naamion Takana<h4>](naamiontakana) Audio team lead & mentor" >}}
   {{< paige/image class="rounded-3" width="auto" height="auto" maxheight="24rem" maxwidth="100%" process="webp picture x2000 q50" src="naamiontakana1.png" link="naamiontakana" >}}
 {{< /paige/figure >}}
