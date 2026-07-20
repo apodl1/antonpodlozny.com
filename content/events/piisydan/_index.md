@@ -14,7 +14,7 @@ title = 'Teekkarispeksi 2026 - Piisydän'
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
-            <p class="lead text-center">Producer responsible for light&sound tech, musical numbers & logistics as well as general management of a ~200 member production team</p>
+            <p class="lead text-center">Theatrical Producer responsible for light & sound tech, musical numbers and logistics as well as production finances and general management of a ~200 member team</p>
         </div>
     </div>
 </div>
