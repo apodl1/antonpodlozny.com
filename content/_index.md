@@ -20,9 +20,9 @@ aliases:
 
 <div class="container-fluid">
     <div class="justify-content-center row">
-        <div class="col col-auto col-lg-7 px-0">
+        <div class="col col-auto col-lg-6 px-0">
             <p class="lead text-center">
-              Fourth-year Computer Science student at Aalto university</p>
+              Fifth-year Computer Science student at Aalto university</p>
         </div>
     </div>
 </div>
